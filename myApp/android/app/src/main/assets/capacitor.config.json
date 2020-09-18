@@ -1,0 +1,13 @@
+{
+  "appId": "myApp.br.etec.gov.sp",
+  "appName": "My App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
